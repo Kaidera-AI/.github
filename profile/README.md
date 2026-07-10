@@ -1,12 +1,12 @@
-# EnGenAI
+# Kaidera
 
 **The machine that builds machines.**
 
-EnGenAI is an enterprise AI transformation platform for turning business intent into production software, governed workflows, and reusable organisational knowledge. It combines specialist AI workers, orchestration, project memory, model routing, controlled workspaces, and human review into one operating model for AI delivery.
+Kaidera is an enterprise AI transformation platform for turning business intent into production software, governed workflows, and reusable organisational knowledge. It combines specialist AI workers, orchestration, project memory, model routing, controlled workspaces, and human review into one operating model for AI delivery.
 
 ## What We Build
 
-EnGenAI helps teams move from idea to working system without treating every AI initiative as a long procurement or custom engineering programme.
+Kaidera helps teams move from idea to working system without treating every AI initiative as a long procurement or custom engineering programme.
 
 - **AI worker teams** that plan, build, verify, document, and hand work across specialist roles.
 - **PROMI orchestration** for scoping work, routing handoffs, monitoring progress, and escalating when human judgement is needed.
@@ -19,11 +19,11 @@ EnGenAI helps teams move from idea to working system without treating every AI i
 
 | Surface | Link |
 |---|---|
-| Website | [engenai.app](https://engenai.app) |
-| Enterprise overview | [engenai.app/for-enterprise](https://engenai.app/for-enterprise) |
-| Technology overview | [engenai.app/technology](https://engenai.app/technology) |
-| Documentation | [docs.engenai.app](https://docs.engenai.app) |
-| App | [app.engenai.app](https://app.engenai.app) |
+| Website | [kaidera.ai](https://kaidera.ai) |
+| Enterprise overview | [kaidera.ai/for-enterprise](https://kaidera.ai/for-enterprise) |
+| Technology overview | [kaidera.ai/technology](https://kaidera.ai/technology) |
+| Documentation | [docs.kaidera.ai](https://docs.kaidera.ai) |
+| App | [app.kaidera.ai](https://app.kaidera.ai) |
 
 ## How The Platform Works
 
@@ -43,5 +43,5 @@ For public product context, start with the website and documentation links above
 
 ## Company
 
-EnGenAI is a product of Adaptech AI LTD and Xperto AI LLC.
+Kaidera is a product of Adaptech AI LTD and Xperto AI LLC.
 
