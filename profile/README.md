@@ -23,7 +23,7 @@ Kaidera helps teams move from idea to working system without treating every AI i
 | Enterprise overview | [kaidera.ai/for-enterprise](https://kaidera.ai/for-enterprise) |
 | Technology overview | [kaidera.ai/technology](https://kaidera.ai/technology) |
 | Documentation | [docs.kaidera.ai](https://docs.kaidera.ai) |
-| App | [app.kaidera.ai](https://app.kaidera.ai) |
+| App (legacy live domain) | [app.engenai.app](https://app.engenai.app) |
 
 ## How The Platform Works
 
@@ -44,4 +44,3 @@ For public product context, start with the website and documentation links above
 ## Company
 
 Kaidera is a product of Adaptech AI LTD and Xperto AI LLC.
-
