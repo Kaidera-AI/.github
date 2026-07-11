@@ -23,7 +23,7 @@ Kaidera helps teams move from idea to working system without treating every AI i
 | Enterprise overview | [kaidera.ai/for-enterprise](https://kaidera.ai/for-enterprise) |
 | Technology overview | [kaidera.ai/technology](https://kaidera.ai/technology) |
 | Documentation | [docs.kaidera.ai](https://docs.kaidera.ai) |
-| App (legacy live domain) | [app.engenai.app](https://app.engenai.app) |
+| App (live domain) | [app.kaidera.ai](https://app.kaidera.ai) |
 
 ## How The Platform Works
 
