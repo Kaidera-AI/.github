@@ -1,8 +1,6 @@
 # Kaidera
 
-**The machine that builds machines.**
-
-Kaidera is an enterprise AI transformation platform for turning business intent into production software, governed workflows, and reusable organisational knowledge. It combines specialist AI workers, orchestration, project memory, model routing, controlled workspaces, and human review into one operating model for AI delivery.
+Kaidera is an enterprise AI transformation platform for the regulated world like aviation, help turning business intent into production software, governed workflows, and reusable organisational knowledge. It combines specialist AI workers, orchestration, project memory, model routing, controlled workspaces, and human review into one operating model for AI delivery.
 
 ## What We Build
 
